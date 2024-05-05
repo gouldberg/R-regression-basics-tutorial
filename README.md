@@ -1,1 +1,24 @@
 # R-regression-basics-tutorial
+- Regression analysis and modeling by R launguage is really fun.
+- This repository have only data analysis and regression modeling for 1 dataset 'prestige'. The dataset is quite small. **But even with this small data, you can analyze/model in various ways. That's the fun.**
+- **The analysis and modeling covered here** is (just example):
+  - **data exploration** by Cleaveland dotplot and correlations.
+  - **data transformation**
+  - **ordinary linear regression**
+  - **model diagnostics**
+    - default plot
+    - assess residuals
+    - confidence interval
+    - main effect plot
+  - **model update**
+    - model interactions
+    - identify influential data by various method
+    - variable selection (exhaustive and stepwise)
+  - **model comparison**
+  - **model understanding**
+    - conditional effect plot
+    - full model plot
+  - **robust regression**
+  - **multimodel inference**
+- This is just ordinary linear regression (with some tweaks). **If you would like to try more**, here would help:
+  -  https://github.com/gouldberg/R-various-statistical-analysis-and-modeling
